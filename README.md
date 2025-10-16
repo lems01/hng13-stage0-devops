@@ -12,4 +12,10 @@ It involves setting up a GitHub workflow, deploying an NGINX web server,
 and serving a custom webpage accessible over the internet.
 
 ## Server IP / Domain
-*(To be added after deployment)*
+**34.235.140.182**
+
+## Deployment Details
+- **Platform:** AWS EC2 (Ubuntu 22.04)
+- **Web Server:** NGINX
+- **Port:** 80 (HTTP)
+- **Deployed:** October 16, 2025
